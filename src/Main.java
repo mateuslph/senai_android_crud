@@ -10,6 +10,9 @@ public class Main {
         try {
             connection = DriverManager.getConnection(DATABASE_URL, "root", "10.20-Ma.login");
             stm = connection.createStatement();
+            stm.execute("insert into produtos (idProduto, descricao, preco, unidade) values (5, 'Linguíça', 28.2, 'kg');");
+            stm.execute("update produtos set descricao = 'Farinha' where descricao = 'Açúcar';");
+            stm.execute("delete from produtos where descricao = 'Carne';");
             rs = stm.executeQuery("select * from produtos");
             while (rs.next())
                 System.out.println(rs.getInt(1) + " " +
