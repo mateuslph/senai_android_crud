@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e31ce317-af8c-4209-a0cf-5ecf0949b462" name="Changes" comment="Atualizado Classe Produtos com ID" />
+    <list default="true" id="e31ce317-af8c-4209-a0cf-5ecf0949b462" name="Changes" comment="Atualizado Classe Produtos com ID">
+      <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.0.32.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,21 +28,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LVfSQtiBpdbEQCRrBmCcIT9i1f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Projetos/Desenv-Android_SENAI/UC10_SA2_Atividade1/senai_android_model",
+    "last_opened_file_path": "C:/Projetos/Desenv-Android_SENAI/UC10_SA2_Atividade2/senai_android_model",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,6 +77,9 @@
       <workItem from="1675961170932" duration="1287000" />
       <workItem from="1676068839017" duration="2768000" />
       <workItem from="1676074936820" duration="303000" />
+      <workItem from="1676076338051" duration="1681000" />
+      <workItem from="1676120750355" duration="1877000" />
+      <workItem from="1676132063860" duration="1818000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizado Classe Produtos com ID">
       <created>1676075039805</created>
@@ -82,6 +95,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Atualizado Classe Produtos com ID" />
     <option name="LAST_COMMIT_MESSAGE" value="Atualizado Classe Produtos com ID" />
   </component>
